@@ -5,7 +5,7 @@ You can find the source code on [GitHub](https://github.com/rahulnfc/APOD-NASA-I
 You can find the api documentation on [NASA](https://api.nasa.gov/).
 
 You can clone the repository and run the following command to install the dependencies:
-npm install ➡️ This will install all the dependencies.
+npm install or yarn install ➡️ This will install all the dependencies.
 
 This is nodejs project, so you can run the application in development mode by running the following command:
 npm run dev ➡️ This will run the application in development mode.
