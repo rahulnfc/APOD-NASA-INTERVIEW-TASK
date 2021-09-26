@@ -2,7 +2,7 @@ Hi there 👋
 This is a simple project that uses the APOD API to display a picture of the day.
 
 You can find the source code on [GitHub](https://github.com/rahulnfc/APOD-NASA-INTERVIEW-TASK).
-You can find the api documentation on [NASA](https://api.nasa.gov/planetary/apod).
+You can find the api documentation on [NASA](https://api.nasa.gov/).
 
 You can clone the repository and run the following command to install the dependencies:
 npm install ➡️ This will install all the dependencies.
